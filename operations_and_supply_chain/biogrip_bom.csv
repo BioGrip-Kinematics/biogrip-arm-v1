@@ -1,22 +1,22 @@
 
-Category,Component Name,Quantity,Rate (BDT),Total (BDT),Supplier / Notes
-Electronics,Flex Sensor (used for fingers joints),5,1200,6000,Swadesh Electronics
-Electronics,MG996R Servo Motor,4,280,1120,Swadesh Electronics
-Electronics,Arduino Uno R3 (Microcontroller),1,880,880,Swadesh Electronics
-Electronics,Jumper Wires (Male-to-Male),2 pkts,60,120,Swadesh Electronics
-Electronics,Jumper Wires (Male-to-Female),2 pkts,60,120,Swadesh Electronics
-Electronics,Servo Motor Driver (PCA9685),1,450,450,Swadesh Electronics
-Electronics,Hot Glue Gun (Tools),1,200,200,Swadesh Electronics
-Electronics,MG996R Servo Motor (Additional),1,280,280,Swadesh Electronics
-Electronics,10K Ohm Resistors (voltage dividers),100,0.20,20,Swadesh Electronics
-Electronics,Hot Glue Sticks,5,15,75,Swadesh Electronics
-Electronics,1550mAh LiPo Battery,1,1650,1650,Swadesh Electronics
-Electronics,IMAX B3 AC LiPo Charger,1,380,380,Swadesh Electronics
-Mechanical,3D Printed Arm & Hand Chassis (PLA/PETG/ABS),1 Set,7000,7000,In-house Printing
-Mechanical,Artificial Tendons (Fishing line/Kevlar),1 Spool,100,100,Local Hardware
-Mechanical,Hardware / Fasteners (Screws/Nuts/Bolts),1 Set,100,100,Local Hardware
-Mechanical,Arm Cuff / Straps (Velcro/elastic),1 Set,300,300,Local Hardware
+Category,Component Name,Quantity,Rate (BDT),Total (BDT),Specific Volume (cm³/g),Supplier / Notes
+Electronics,Flex Sensor (used for fingers joints),5,1200,6000,N/A,Swadesh Electronics
+Electronics,MG996R Servo Motor,4,280,1120,N/A,Swadesh Electronics
+Electronics,Arduino Uno R3 (Microcontroller),1,880,880,N/A,Swadesh Electronics
+Electronics,Jumper Wires (Male-to-Male),2 pkts,60,120,N/A,Swadesh Electronics
+Electronics,Jumper Wires (Male-to-Female),2 pkts,60,120,N/A,Swadesh Electronics
+Electronics,Servo Motor Driver (PCA9685),1,450,450,N/A,Swadesh Electronics
+Electronics,Hot Glue Gun (Tools),1,200,200,N/A,Swadesh Electronics
+Electronics,MG996R Servo Motor (Additional),1,280,280,N/A,Swadesh Electronics
+Electronics,10K Ohm Resistors (voltage dividers),100,0.20,20,N/A,Swadesh Electronics
+Electronics,Hot Glue Sticks,5,15,75,N/A,Swadesh Electronics
+Electronics,1550mAh LiPo Battery,1,1650,1650,N/A,Swadesh Electronics
+Electronics,IMAX B3 AC LiPo Charger,1,380,380,N/A,Swadesh Electronics
+Mechanical,3D Printed Arm & Hand Chassis (PLA/PETG/ABS),1 Set,7000,7000,"PLA: 0.806 / PETG: 0.787 / ABS: 0.952",See hardware/material_specifications.md; In-house Printing
+Mechanical,Artificial Tendons (Fishing line/Kevlar),1 Spool,100,100,N/A,Local Hardware
+Mechanical,Hardware / Fasteners (Screws/Nuts/Bolts),1 Set,100,100,N/A,Local Hardware
+Mechanical,Arm Cuff / Straps (Velcro/elastic),1 Set,300,300,N/A,Local Hardware
 ,,,,,
-SUMMARY,Total Electronics Cost,,,11095,
-SUMMARY,Total Mechanical & Structural Cost,,,7500,
-SUMMARY,Grand Total Prototype Cost,,,18595,
+SUMMARY,Total Electronics Cost,,,11095,N/A,
+SUMMARY,Total Mechanical & Structural Cost,,,7500,N/A,
+SUMMARY,Grand Total Prototype Cost,,,18595,N/A,
